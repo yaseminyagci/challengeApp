@@ -1,0 +1,19 @@
+﻿using Domain.Entity.BaseEntity;
+using System.Collections.Generic;
+
+namespace Domain.Entity
+{
+    public class CityDefinition : EntityBase
+    {
+        public CityDefinition()
+        {
+            this.IsActive = true;
+        }
+
+        public string Name { get; set; }
+        public bool IsActive { get; set; }
+        public bool IsDelete { get; set; }
+
+        public virtual ICollection<DistrictDefinition> Districts { get; set; }
+    }
+}

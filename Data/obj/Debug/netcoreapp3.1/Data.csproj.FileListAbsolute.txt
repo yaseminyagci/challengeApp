@@ -1,0 +1,8 @@
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\Yasemin\source\repos\ChallengeApp\Data\obj\Debug\netcoreapp3.1\Data.pdb
